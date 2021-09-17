@@ -1,0 +1,269 @@
+[
+  {
+    "label": "FY2015",
+    "start": "2014-06-01 00:00:00",
+    "end": "2015-05-31 00:00:00",
+    "status": {
+      "progress": 0,
+      "courses": []
+    }
+  },
+  {
+    "label": "FY2016",
+    "start": "2015-06-01 00:00:00",
+    "end": "2016-04-30 00:00:00",
+    "status": {
+      "progress": 0,
+      "courses": []
+    }
+  },
+  {
+    "label": "FY2017",
+    "start": "2016-05-01 00:00:00",
+    "end": "2017-04-30 00:00:00",
+    "status": {
+      "progress": 2,
+      "courses": [
+        {
+          "id": "128",
+          "title": "Employee Orientation ",
+          "description": "Orientation for new employees. ",
+          "duration": "0.5",
+          "start": "2016-10-29 00:00:00",
+          "end": "2016-10-29 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "120",
+          "title": "Never Trust Fire ",
+          "description": "We are happy to share that PPKKL (Pertubuhan Pencegah Kebakaran Kuala Lumpur), NGO society under registered in www.ros.gov.my, will be coming to do a short training session on Fire, its dangers and how to manage it. \r\nTopics :-\r\n·  Back draft​- The silent killer\r\n·  The usage of elevator during fire\r\n·  Fire demonstration & experiment on 9 Volt batteries that may cause fire. \r\n·  Vehicles on fire \r\n·  Study cases & Question & Answer ​\r\n",
+          "duration": "0.5",
+          "start": "2016-10-24 00:00:00",
+          "end": "2016-10-24 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "233",
+          "title": "SAP System Version 9.2 ",
+          "description": "A briefing on new features of the system. ",
+          "duration": "0.5",
+          "start": "2017-03-22 00:00:00",
+          "end": "2017-03-22 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "245",
+          "title": "SAP System Version 9.2 (GST Add on Briefing)",
+          "description": "A briefing on new features of the GST system. \r\n\r\nDate : 22 Mar 17\r\nTime : 3pm-6pm",
+          "duration": "0.5",
+          "start": "2017-03-22 00:00:00",
+          "end": "2017-03-22 00:00:00",
+          "status": null,
+          "payment": null
+        }
+      ]
+    }
+  },
+  {
+    "label": "FY2018",
+    "start": "2017-05-01 00:00:00",
+    "end": "2018-04-30 00:00:00",
+    "status": {
+      "progress": 21.5,
+      "courses": [
+        {
+          "id": "298",
+          "title": "PMS Training (for Non-Managers)",
+          "description": "Understand the key components of PMS Cycle and best practices in PMS. \r\nUnderstand and apply key skills in setting individual goals (KRAs and KPIs) and Key Job Competencies (KJCs) required in the PMS. \r\nApply KPI setting in ensuring expectations of performance are objectively set and measured so as to provide better clarity for better performance outcomes. \r\n",
+          "duration": "0.5",
+          "start": "2017-05-31 00:00:00",
+          "end": "2017-05-31 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "394",
+          "title": "Electrical Safety Awareness Program @ HQ",
+          "description": "Date    : 25 Aug 17\r\nTime    : 0900AM - 1300PM\r\nTrainer : Chargeman (BO) & Safety Officer (>20 years exp in Telco)\r\n\r\n***This session is ONLY opened to SELECTED representatives.",
+          "duration": "0.5",
+          "start": "2017-08-25 00:00:00",
+          "end": "2017-08-25 00:00:00",
+          "status": "Failed Exam",
+          "payment": null
+        },
+        {
+          "id": "417",
+          "title": "AI Digital Marketing Workshop",
+          "description": "Date : 24 Oct 17\r\nTime : 9.30am-12.30pm\r\nDetail : Learn from actual case studies on how some have increased ROI of online ads while reducing costs at the same time\r\nLearn about the latest technology on Artificial Intelligence (AI) and behavioural marketing. Discover how it is changing the future of digital marketing\r\nKnow how getting the right audience targeting with accurate demographics and interest helps lower your ads cost\r\nKeep up on how marketing automation solutions today can minimize time spent, manual work and assumptions\r\nFind out how to have better conversion rates with less cost by introducing AI to analyze data\r\n",
+          "duration": "0.5",
+          "start": "2017-10-24 00:00:00",
+          "end": "2017-10-24 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "422",
+          "title": "Enterprise Data Engineer (EDE) Part 1 (15 days)",
+          "description": "Date : 1 Jun - 3 Aug 17\r\nDays : 15\r\nTime : 9am-5pm",
+          "duration": "15.0",
+          "start": "2017-06-01 00:00:00",
+          "end": "2017-08-03 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "423",
+          "title": "Enterprise Data Engineer (EDE) Part 2 (5 days)",
+          "description": "Date : 4 Aug - 17 Aug 17\r\nDays : 5\r\nTime : 9am-5pm",
+          "duration": "5.0",
+          "start": "2017-08-04 00:00:00",
+          "end": "2017-08-17 00:00:00",
+          "status": null,
+          "payment": null
+        }
+      ]
+    }
+  },
+  {
+    "label": "FY2019",
+    "start": "2018-05-01 00:00:00",
+    "end": "2019-04-30 00:00:00",
+    "status": {
+      "progress": 7,
+      "courses": [
+        {
+          "id": "779",
+          "title": "Bi360 Data Warehouse Training",
+          "description": "Date : 29 Nov 18\r\nTime : 9am-5pm",
+          "duration": "1.0",
+          "start": "2018-11-29 00:00:00",
+          "end": "2018-11-29 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "780",
+          "title": "Bi360 Reporting Tool Training",
+          "description": "Date : 27/11/18\r\nTime : 9.30am-2pm",
+          "duration": "0.5",
+          "start": "2018-11-27 00:00:00",
+          "end": "2018-11-27 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "988",
+          "title": "Online : Learn Android Application Development",
+          "description": " Learn Android Application Development 29/4/19 - 27 hours",
+          "duration": "3.5",
+          "start": "2019-04-01 00:00:00",
+          "end": "2019-04-29 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "989",
+          "title": "Online : TypeScript, Angular, Firebase & Angular Material Masterclass",
+          "description": "TypeScript, Angular, Firebase & Angular Material Masterclass 28/4/19 - 14.5 hours",
+          "duration": "2.0",
+          "start": "2019-04-01 00:00:00",
+          "end": "2019-04-28 00:00:00",
+          "status": null,
+          "payment": null
+        }
+      ]
+    }
+  },
+  {
+    "label": "FY2020",
+    "start": "2019-05-01 00:00:00",
+    "end": "2020-06-30 00:00:00",
+    "status": {
+      "progress": 5.5,
+      "courses": [
+        {
+          "id": "986",
+          "title": "Backup and DR with AWS Workshop",
+          "description": "Agenda: \r\n9.30 am                : Registration\r\n10.00 am             : AWS - Introduction and use cases on AWS \r\n10.15 am             : AspireNxt - Set up your Backup and Disaster Recovery on AWS\r\n10.45 am             : Break\r\n11.00 am             : Veeam - Journey to Better Backup & Intelligent Data Management\r\n12.00 pm             : Q&A\r\n12.30 pm             : Lunch\r\n\r\n ",
+          "duration": "0.5",
+          "start": "2019-05-07 00:00:00",
+          "end": "2019-05-07 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1051",
+          "title": "Big data strategy and application",
+          "description": "by Peter Kua\r\n2pm-5.30pm",
+          "duration": "0.5",
+          "start": "2019-08-30 00:00:00",
+          "end": "2019-08-30 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1057",
+          "title": "Solver Bi260 Administrator Training",
+          "description": "Date : 19/6/19\r\nTime  : 9am-5pm",
+          "duration": "1.0",
+          "start": "2019-06-19 00:00:00",
+          "end": "2019-06-19 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1162",
+          "title": "Insider Dev tour 2019 malaysia",
+          "description": "Date : 22 June 2019\r\nTime : 8am-6pm",
+          "duration": "1.0",
+          "start": "2019-06-22 00:00:00",
+          "end": "2019-06-22 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1163",
+          "title": "To the cloud,Your way",
+          "description": "Date : 26 June 2019\r\nTime : 11.15am - 3.30pm",
+          "duration": "0.5",
+          "start": "2019-06-26 00:00:00",
+          "end": "2019-06-26 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1211",
+          "title": "Node.js Tutorial For Absolute Beginners",
+          "description": "Learn how asynchronous code works in Node and the Node event loop, as well as how to use the event emitter, streams, buffers, pipes, and work with files. We'll see how that leads to building a web server in Node.\r\nWe'll dive into web sites, web apps and APIs with Express and learn how Express can save us time as Node developers.\r\nGain a deep understanding of the JavaScript concepts and other computer science concepts that power Node.",
+          "duration": "0.5",
+          "start": "2020-04-09 00:00:00",
+          "end": "2020-04-09 00:00:00",
+          "status": null,
+          "payment": null
+        },
+        {
+          "id": "1210",
+          "title": "Udemy: MongoDB Essentials - Complete MongoDB Guidelines",
+          "description": "Deeply understand how MongoDB works - cursor, batch size, iterator\r\nLaunch production database on the Atlas MongoDB - managed cloud-based MongoDB database\r\nInstall and configure production MongoDB on the dedicated or virtual private server\r\nUnderstand and use different MongoDB BSON types - ObjectId, ISODate, NumberInt etc.\r\nLearn how to use MongoDB Shell, Robo 3T (Robomongo), MongoDB Compass for database management",
+          "duration": "1.5",
+          "start": "2020-06-27 00:00:00",
+          "end": "2020-06-28 00:00:00",
+          "status": null,
+          "payment": null
+        }
+      ]
+    }
+  },
+  {
+    "label": "FY2021",
+    "start": "2020-07-01 00:00:00",
+    "end": "2021-06-30 00:00:00",
+    "status": {
+      "progress": 0,
+      "courses": []
+    }
+  }
+]
